@@ -1,0 +1,10 @@
+[global]
+
+[browser]
+serverPort=8501
+serverAddress="localhost"
+
+[server]
+cookieSecret = "46325fd2ghhd2boud2wd629g70hufr2ibf20oucf2b0yvbwcoucw342rwrwfeftg"
+enableXsrfProtection=false
+
